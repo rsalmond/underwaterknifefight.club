@@ -1,0 +1,19 @@
+body {
+	background: black;
+}
+
+h1 {
+	color: white;
+}
+
+#underwaterknifefight {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+#john {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
